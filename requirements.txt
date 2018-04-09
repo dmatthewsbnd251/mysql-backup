@@ -1,0 +1,5 @@
+MySQL-python
+pathos
+joblib
+lockfile >= 0.12.2
+psutil
